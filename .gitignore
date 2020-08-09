@@ -1,0 +1,6 @@
+bazel-bin
+bazel-cb
+bazel-out
+bazel-testlogs
+
+user.bazelrc
